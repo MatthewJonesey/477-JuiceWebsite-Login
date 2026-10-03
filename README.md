@@ -17,8 +17,8 @@ A small Node.js app that mimics the login page of [OWASP Juice Shop](https://owa
 ## How to run
 
 ```bash
-git clone <your-repo-url>
-cd juice-shop-login
+git clone https://github.com/MatthewJonesey/477-JuiceWebsite-Login
+cd 477-JuiceWebsite-Login  <This can also be named something else just cd into the cloned folder>
 npm install
 npm start
 ```
